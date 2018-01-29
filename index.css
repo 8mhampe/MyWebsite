@@ -1,0 +1,30 @@
+#road{
+  width: 150px;
+  height: 150px;
+  border: 10px solid red;
+  margin: 10px;
+  padding: 10px;
+}
+#first{
+  background: blue
+}
+#div2{
+  background: purple
+}
+#second{
+  width: 300px;
+  height: 180px;
+  border: 50px solid blue;
+  margin: 30px;
+  padding: 30px;
+}
+#div3{
+  background: green
+}
+#third{
+   width: 200px;
+  height: 250px;
+  border: 30px solid black;
+  margin: 20px;
+  padding: 20px;
+}
