@@ -1,12 +1,12 @@
-#road{
+#div1{
+  background: blue
+}
+#first{
   width: 150px;
   height: 150px;
   border: 10px solid red;
   margin: 10px;
   padding: 10px;
-}
-#first{
-  background: blue
 }
 #div2{
   background: purple
